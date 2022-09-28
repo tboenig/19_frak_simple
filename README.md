@@ -26,12 +26,16 @@ Font: blackletter</p>
          <tr>
             <th>TextLine</th>
             <th>Page</th>
+            <th>TxtRegion</th>
+            <th>SepRegion</th>
          </tr>
       </thead>
       <tbody>
          <tr>
-            <td>0</td>
-            <td>0</td>
+            <td>22</td>
+            <td>1</td>
+            <td>5</td>
+            <td>1</td>
          </tr>
       </tbody>
    </table>
@@ -60,7 +64,27 @@ Font: blackletter</p>
                   <th>Page</th>
                </tr>
             </thead>
-            <tbody/>
+            <tbody>
+               <tr>
+                  <td>arnimb_goethe03_1835</td>
+                  <td>5</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>1</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>22</td>
+                  <td>1</td>
+               </tr>
+            </tbody>
          </table>
       </div>
    </div>
