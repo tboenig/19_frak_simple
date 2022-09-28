@@ -6,7 +6,7 @@
       <dd>19_frak_simple</dd>
       <dt>Description:</dt>
       <dd>Ground Truth with a collection of documents with the following characteristics:
-Font: blackletter</dd>
+font blackletter</dd>
       <dt>Language:</dt>
       <dd>deu</dd>
       <dt>Format:</dt>
@@ -19,6 +19,8 @@ Font: blackletter</dd>
    <details>
       <summary>More Information</summary>
       <dl class="more-grid">
+         <dt>Transcription Guidelines:</dt>
+         <dd>OCR-D Ground Truth Guidelines https://ocr-d.de/en/gt-guidelines/trans/</dd>
          <dt>License:</dt>
          <dd>CC0 1.0</dd>
          <dt>Project:</dt>
@@ -35,7 +37,7 @@ Font: blackletter</dd>
                         Metadata for the complete collection and the components are in METS format.</p>
    <ul>
       <li>
-         <a href="https://github.com/tboenig/19_frak_simple/releases/download/v3/bagitDump-v3.zip">Current version download: bagitDump-v3.zip</a>
+         <a href="https://github.com/tboenig/19_frak_simple/releases/download/v4/bagitDump-v4.zip">Current version download: bagitDump-v4.zip</a>
       </li>
       <li>
          <a href="https://github.com/tboenig/19_frak_simple/releases">Version archive</a>
