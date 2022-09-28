@@ -132,5 +132,25 @@
          <th>Page</th>
       </tr>
    </thead>
-   <tbody/>
+   <tbody>
+      <tr>
+         <th>arnimb_goethe03_1835_0029.xml</th>
+         <td>5</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>1</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>22</td>
+         <td>1</td>
+      </tr>
+   </tbody>
 </table>
