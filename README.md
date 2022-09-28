@@ -1,7 +1,7 @@
 <div>
    <h1 id="title">19_frak_simple</h1>
    <p id="paragraph">Ground Truth with a collection of documents with the following characteristics:
-Font: blackletter</p>
+font blackletter</p>
    <h2>Metadata</h2>
    <dl class="grid">
       <dt id="Language">Language:</dt>
@@ -14,6 +14,8 @@ Font: blackletter</p>
       <dd>data_structure_and_text</dd>
       <dt id="License">License:</dt>
       <dd>CC0 1.0</dd>
+      <dt id="Guidelines">Transcription Guidelines:</dt>
+      <dd>OCR-D Ground Truth Guidelines https://ocr-d.de/en/gt-guidelines/trans/</dd>
       <dt id="Project">Project:</dt>
       <dd>OCR-D</dd>
       <dt id="Project-URL">Project-URL:</dt>
