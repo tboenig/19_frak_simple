@@ -39,14 +39,93 @@ font blackletter</dd>
                The labeling metadata is created for each available page. The following labeling metadata is available for the complete collection.</p>
    <p>Here you will find a description and explanation of the labeling metadata.</p>
    <details>
+      <summary>activityDomain/computing/visual/analysisRecognition/layoutAnalysis</summary>
+      <p>
+         <strong>Description: </strong>In computer vision, document layout analysis is the process of identifying and categorizing the regions of interest in the scanned image of a text document. A reading system requires the segmentation of text zones from non-textual ones and the arrangement in their correct reading order.
+
+Examples:
+Page layout analysis (segmentation into regions, classification into text, graphic, table etc.)
+
+Related:
+"OCR": Often used as a synonym for layout analysis and text recognition, but strictly only the text recognition component.</p>
+   </details>
+   <details>
+      <summary>activityDomain/computing/visual/analysisRecognition/ocr</summary>
+      <p>
+         <strong>Description: </strong>
+      </p>
+   </details>
+   <details>
+      <summary>activityDomain/computing/visual/analysisRecognition/text</summary>
+      <p>
+         <strong>Description: </strong>Translation of any kind of depicted symbols to machine readable format
+
+Examples:
+OCR
+Mathematical equation recognition
+
+Related:
+Text processing (separate category)
+Table recognition
+Map reading</p>
+   </details>
+   <details>
       <summary>condition/production-related/document-faults/ink-from-facing</summary>
       <p>
          <strong>Description: </strong>Ink from facing page was transferred to this page</p>
    </details>
    <details>
+      <summary>content-encoding/structured</summary>
+      <p>
+         <strong>Description: </strong>E.g. XML</p>
+   </details>
+   <details>
+      <summary>content-type/corpus</summary>
+      <p>
+         <strong>Description: </strong>
+Corpus: a collection of written texts, especially the entire works of a particular author or a body of writing on a particular subject.
+
+Examples:
+A text corpus,
+An image database</p>
+   </details>
+   <details>
+      <summary>contentOfInterest/visual/graphical/separator</summary>
+      <p>
+         <strong>Description: </strong>
+                        Description coming soon.
+                    </p>
+   </details>
+   <details>
+      <summary>contentOfInterest/visual/text</summary>
+      <p>
+         <strong>Description: </strong>
+                        Description coming soon.
+                    </p>
+   </details>
+   <details>
       <summary>data-attributes/document-related/visual/text/font/multi-font/font-sizes</summary>
       <p>
          <strong>Description: </strong>More than one font size used</p>
+   </details>
+   <details>
+      <summary>data-attributes/document-related/visual/text/font/typeface/blackletter</summary>
+      <p>
+         <strong>Description: </strong>Blackletter, gothic, Fraktur</p>
+   </details>
+   <details>
+      <summary>granularity/logical/document-related/paragraph</summary>
+      <p>
+         <strong>Description: </strong>
+                        Description coming soon.
+                    </p>
+   </details>
+   <details>
+      <summary>granularity/physical/document-related/page</summary>
+      <p>
+         <strong>Description: </strong>
+                        Description coming soon.
+                    </p>
    </details>
    <details>
       <summary>granularity/physical/document-related/region</summary>
@@ -65,6 +144,13 @@ font blackletter</dd>
       <p>
          <strong>Description: </strong>Word or partial word, if separated by line break, for example</p>
    </details>
+   <details>
+      <summary>platform/platform-independent</summary>
+      <p>
+         <strong>Description: </strong>
+                        Description coming soon.
+                    </p>
+   </details>
 </div>
 <div class="metadata">
    <h2>Download</h2>
@@ -73,7 +159,7 @@ font blackletter</dd>
                         Metadata for the complete collection and the components are in METS format.</p>
    <ul>
       <li>
-         <a href="https://github.com/tboenig/19_frak_simple/releases/download/v8/bagitDump-v8.zip">Current version download: bagitDump-v8.zip</a>
+         <a href="https://github.com/tboenig/19_frak_simple/releases/download/v9/bagitDump-v9.zip">Current version download: bagitDump-v9.zip</a>
       </li>
       <li>
          <a href="https://github.com/tboenig/19_frak_simple/releases">Version archive</a>
