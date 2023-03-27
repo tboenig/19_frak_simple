@@ -240,7 +240,7 @@ font blackletter</dd>
                         </thead>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/19_frak_simple/blob/main/data/arnimb_goethe03_1835/GT-PAGE/arnimb_goethe03_1835_0029.xml">arnimb_goethe03_1835_0029.xml</a>
+                              <a href="https://github.com/tboenig/19_frak_simple/blob/v1.0.0/data/arnimb_goethe03_1835/GT-PAGE/arnimb_goethe03_1835_0029.xml">arnimb_goethe03_1835_0029.xml</a>
                            </td>
                            <td>22</td>
                            <td>1</td>
