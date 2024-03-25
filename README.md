@@ -60,7 +60,7 @@ font blackletter</p>
                   <th>MusicRegion</th>
                   <th>AdRegion</th>
                   <th>NoiseRegion</th>
-                  <th>UnkownRegion</th>
+                  <th>UnknownRegion</th>
                   <th>CustomRegion</th>
                   <th>TextLine</th>
                   <th>Page</th>
